@@ -192,6 +192,7 @@ Exemplo de resposta:
   
 Abaixo, uma imagem mostrando a execução do projeto:  
   
-![Evidência da execução](./evidencia_execucao.png)
+
+![evidencia_execucao](https://github.com/user-attachments/assets/0c417b61-4a3b-4d95-a92e-0651b7c6c7d5)
 
 
