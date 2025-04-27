@@ -191,7 +191,12 @@ Exemplo de resposta:
 ## Evidências da Execução  
   
 Abaixo, uma imagem mostrando a execução do projeto:  
-  
+## Antes da Execução
+
+![antes_execucao](https://github.com/user-attachments/assets/50546ab8-cea2-408f-a2e6-ac82c2a94dc9)
+
+
+## Depois da Execução  
 
 ![evidencia_execucao](https://github.com/user-attachments/assets/0c417b61-4a3b-4d95-a92e-0651b7c6c7d5)
 
